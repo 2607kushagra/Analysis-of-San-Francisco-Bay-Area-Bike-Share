@@ -1,4 +1,4 @@
-**Dataset:**
+****Dataset:****
 We conduct analysis on the San Francisco Bay Area Bike Share dataset. The dataset weighs in at 2 GB. The
 dataset provides information on the reasonably priced, quick, and simple bike excursions in and around
 the San Francisco Bay Area. It includes details on the designated stations for picking up and dropping off
@@ -6,7 +6,7 @@ bikes, the number of bikes and docks that are available, individual bike trips, 
 a certain day for a given zip code.
 
 
-****Business Understanding:**
+****Business Understanding:****
 Data from the Bay Area Bike Share System is included in the collection. The San Francisco Municipal
 Transportation Agency (SFMTA) launched the Bay Area Bike Share System in 2013 to provide the general
 public with accessible and reasonably priced transportation. SFMTA gathered information on the trips
